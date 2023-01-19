@@ -2,7 +2,7 @@
 
 Main repository for the TypeSledder game.
 
-This project will be built in Unreal and will serve as a small game for my entry into development and design.
+This project will be built in ...Godot? and will serve as a small game for my entry into development and design.
 
 ## Goals
 
